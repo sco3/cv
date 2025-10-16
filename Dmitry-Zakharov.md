@@ -5,7 +5,7 @@ dzakarov@gmail.com
 
 ## Professional Summary
 
-Experienced Software Developer with over 10 years of expertise in Java backend development, big data processing, and telecommunications analytics. Proven record in designing and deploying high-performance systems, large-scale ETL frameworks, and distributed applications using Hadoop, Presto, Hive, Kafka, and Docker. Strong background in enterprise Java (Spring, Hibernate), database optimization, and integration of heterogeneous data processing systems.
+Experienced Software Developer with over 12 years of expertise in Java backend development, big data processing, and telecommunications analytics. Proven record in designing and deploying high-performance systems, large-scale ETL frameworks, and distributed applications using Hadoop, Presto, Hive, Kafka, and Docker. Strong background in enterprise Java (Spring, Hibernate), database optimization, and integration of heterogeneous data processing systems.
 
 ## Technical Skills
 
