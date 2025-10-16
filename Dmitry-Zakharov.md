@@ -9,12 +9,12 @@ Experienced Software Developer with over 10 years of expertise in Java backend d
 
 ## Technical Skills
 
-**Languages:** Java, C++, Go, SQL, Groovy, Shell scripting (SH, KSH, CSH), Perl
+**Languages:** Java, C/C++, Go, Rust, SQL, Groovy, Shell, Perl
 **Big Data & Distributed Systems:** Hadoop (Apache, Cloudera, Hortonworks), Hive, Presto, Kafka, Cassandra
 **Frameworks & Tools:** Spring, Hibernate, J2EE, REST, SOAP, Corba, JUnit, Docker, Ansible
 **Databases:** PostgreSQL, Oracle, MySQL, DB2, SQL Server, HSQL
 **Version Control & CI/CD:** Subversion, Git, Jenkins
-**Other:** XML (SAX, DOM, JAXB, XSLT), Adobe Flex, Cognos ReportNet, Rational Suite, WebSphere, JBoss
+**Other:** Adobe Flex, Cognos, Rational Suite, WebSphere, JBoss
 
 ## Professional Experience
 
