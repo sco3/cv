@@ -60,7 +60,7 @@ Experienced Software Developer with over 12 years of expertise in Java backend d
 *   Maintained the Boeing System Encyclopedia using Java, J2EE, and Struts.
 *   Provided on-site support for the REDARS project at Boeing in Seattle, USA, from September to December 2006.
 
-**Environment:** Java (1.4, 5.0), J2EE, Spring, Web Services, Subversion, Rational Tools, IBM WebSphere, DB2, Perl.
+**Environment:** Java, J2EE, Spring, Web Services, Subversion, Rational Tools, IBM WebSphere, DB2, Perl.
 
 ## Education
 
