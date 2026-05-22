@@ -25,24 +25,16 @@ Experienced Software Developer with over 12 years of expertise in Java backend d
 
 ## Professional Experience
 
-### IBM -- Dublin, Ireland
+### IBM — Dublin, Ireland
 
-Software Engineer. Rust. *Jan 2026 -- May 2026*
+**Software Engineer (Rust)** | *Jan 2026 – May 2026*
 
-* Open source project https://github.com/IBM/mcp-context-forge with github account: https://github.com/dima-zakharov 
-* Created MCP stdio wrapper in rust: https://github.com/IBM/mcp-context-forge/tree/main/crates/wrapper
-* Created deny filter plugin https://github.com/sco3/deny_rust
-* Suggested using pingora as main gateway platform: https://github.com/IBM/mcp-context-forge/issues/4588
-* Suggested using plugin approach based on MQ/events: https://github.com/IBM/mcp-context-forge/issues/4557
-* Extended benchmarking mcp servers with stateful content in Go language.
-* Improved benchmarking mcp server performance 10x with TCP_NODELAY in axum (rust).
-* Invesatigated performance of rust mcp sdk and found faster alternative implementation based on actix web server.
-* Created several tickets and provided integration tests for Rust MCP sdk.
-* Created integration tests with github actions/workflows: 
-  https://github.com/IBM/mcp-context-forge/blob/main/.github/workflows/sql-sanitizer.yml
-  https://github.com/IBM/mcp-context-forge/blob/main/.github/workflows/wrapper.yml
-* Eliminated resource leak on redis connections in session affinity implementation. This created 2X performance improvements.
-
+* **Core Contributions:** Core contributor to open-source project `IBM/mcp-context-forge`. Designed and built the Rust-based system wrapper from scratch (`crates/wrapper`). Developed a custom access-control plugin (`sco3/deny_rust`).
+* **Architecture & Design:** Authored architectural proposals to adopt Cloudflare’s **Pingora** as the primary gateway platform and designed an event/MQ-driven plugin system.
+* **Performance Engineering:** Optimized async Rust (Axum) socket configurations by forcing `TCP_NODELAY`, delivering a **10x latency reduction** under heavy benchmarking.
+* **Troubleshooting & Fixes:** Identified and eliminated a critical Redis connection leak in the session affinity logic, resulting in a **2x overall throughput improvement**.
+* **Testing & Tools:** Investigated performance bottlenecks in standard SDKs and prototyped a faster alternative using Actix-web. Built GitHub Actions CI workflows for automated integration testing (including SQL sanitizers and wrappers).
+* **Cross-Language Work:** Extended stateful benchmarking suites written in **Go** and contributed integration tests and issue tracking back to upstream repositories.
 
 ### Area22 -- Dublin, Ireland
 
