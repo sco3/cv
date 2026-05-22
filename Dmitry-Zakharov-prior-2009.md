@@ -1,9 +1,13 @@
 # Dmitry Zakharov
 
 Dublin, County Dublin
+
 dzakarov@gmail.com
+
 Github: https://github.com/sco3
+
 Github: https://github.com/dima-zakharov
+
 Mobile: +353858254881
 
 ## Professional Summary
