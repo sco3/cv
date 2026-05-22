@@ -29,12 +29,18 @@ Experienced Software Developer with over 12 years of expertise in Java backend d
 
 **Software Engineer (Rust)** | *Jan 2026 – May 2026*
 
-* **Core Contributions:** Core contributor to open-source project `IBM/mcp-context-forge`. Designed and built the Rust-based system wrapper from scratch (`crates/wrapper`). Developed a custom access-control plugin (`sco3/deny_rust`).
-* **Architecture & Design:** Authored architectural proposals to adopt Cloudflare’s **Pingora** as the primary gateway platform and designed an event/MQ-driven plugin system.
-* **Performance Engineering:** Optimized async Rust (Axum) socket configurations by forcing `TCP_NODELAY`, delivering a **10x latency reduction** under heavy benchmarking.
-* **Troubleshooting & Fixes:** Identified and eliminated a critical Redis connection leak in the session affinity logic, resulting in a **2x overall throughput improvement**.
-* **Testing & Tools:** Investigated performance bottlenecks in standard SDKs and prototyped a faster alternative using Actix-web. Built GitHub Actions CI workflows for automated integration testing (including SQL sanitizers and wrappers).
-* **Cross-Language Work:** Extended stateful benchmarking suites written in **Go** and contributed integration tests and issue tracking back to upstream repositories.
+*   Core contributor to open-source project `IBM/mcp-context-forge`. 
+*   Designed and built the Rust-based system wrapper from scratch (`crates/wrapper`). 
+*   Migrated python plugin to rust with pyo3 (`sco3/deny_rust`). 
+*   Authored architectural proposals to adopt Cloudflare’s Pingora as the primary gateway platform and designed an event/MQ-driven plugin system. 
+*   Optimized MCP async Rust server (Axum) socket configurations, delivering a 10x latency reduction. 
+*   Identified and eliminated a critical Redis connection leak in the session affinity logic, resulting in a 2x overall throughput improvement. 
+*   Investigated performance bottlenecks in Rust MCP SDKs and prototyped a faster alternative using Actix-web. 
+*   Built GitHub Actions CI workflows for automated integration testing (including SQL sanitizers and wrappers). 
+*   Extended stateful benchmarking suites written in Go and contributed integration tests with github workflows.
+
+**Environment:** Rust, Python, Redis, Postgresql, Github workflows, IBM Bob AI tool.
+
 
 ### Area22 -- Dublin, Ireland
 
