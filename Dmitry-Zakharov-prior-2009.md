@@ -2,6 +2,9 @@
 
 Dublin, County Dublin
 dzakarov@gmail.com
+Github: https://github.com/sco3
+Github: https://github.com/dima-zakharov
+Mobile: +353858254881
 
 ## Professional Summary
 
@@ -13,10 +16,29 @@ Experienced Software Developer with over 12 years of expertise in Java backend d
 **Big Data & Distributed Systems:** Hadoop (Apache, Cloudera, Hortonworks), Hive, Presto, Kafka, Cassandra
 **Frameworks & Tools:** Spring, Hibernate, J2EE, REST, SOAP, Corba, JUnit, Docker, Ansible
 **Databases:** PostgreSQL, Oracle, MySQL, DB2, SQL Server, HSQL
-**Version Control & CI/CD:** Subversion, Git, Jenkins
+**Version Control & CI:** Subversion, Git,Github, Github workflows, Jenkins
 **Other:** Adobe Flex, Cognos, Rational Suite, WebSphere, JBoss
 
 ## Professional Experience
+
+### IBM -- Dublin, Ireland
+
+Software Engineer. Rust. *Jan 2026 -- May 2026*
+
+* Open source project https://github.com/IBM/mcp-context-forge with github account: https://github.com/dima-zakharov 
+* Created MCP stdio wrapper in rust: https://github.com/IBM/mcp-context-forge/tree/main/crates/wrapper
+* Created deny filter plugin https://github.com/sco3/deny_rust
+* Suggested using pingora as main gateway platform: https://github.com/IBM/mcp-context-forge/issues/4588
+* Suggested using plugin approach based on MQ/events: https://github.com/IBM/mcp-context-forge/issues/4557
+* Extended benchmarking mcp servers with stateful content in Go language.
+* Improved benchmarking mcp server performance 10x with TCP_NODELAY in axum (rust).
+* Invesatigated performance of rust mcp sdk and found faster alternative implementation based on actix web server.
+* Created several tickets and provided integration tests for Rust MCP sdk.
+* Created integration tests with github actions/workflows: 
+  https://github.com/IBM/mcp-context-forge/blob/main/.github/workflows/sql-sanitizer.yml
+  https://github.com/IBM/mcp-context-forge/blob/main/.github/workflows/wrapper.yml
+* Eliminated resource leak on redis connections in session affinity implementation. This created 2X performance improvements.
+
 
 ### Area22 -- Dublin, Ireland
 
