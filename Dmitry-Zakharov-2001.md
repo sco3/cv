@@ -99,7 +99,7 @@ Experienced Software Developer with over 12 years of expertise in Java backend d
 
 ## Education
 
-**Professional Services in C++ Programming Course** *Public University - Omsk, November 1997 -- February 1993*
+**Professional Services in C++ Programming Course** *Public University Znanie- Omsk, November 1997 -- February 1998*
 Course Certificate.
 
 **Siberian State Automobile and Highway University - Omsk**, *1983 -- 1988*
